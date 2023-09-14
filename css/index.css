@@ -1,0 +1,39 @@
+.navbar-brand{
+    font-size: 60px;
+}
+.container{
+    display: flex;
+    justify-content: space-evenly;
+    
+
+}
+
+.book{
+    margin-top: 10px;
+    width: 300px;
+    background-color: whitesmoke;
+    display: flex;
+    flex-direction: column;
+    border-radius: 10px;
+    align-items: center;
+}
+.image{
+    width: 200px;
+    height: 300px;
+    margin-top: 20px;
+    border-radius: 10px;
+}
+.about{
+    padding: 10px;
+}
+.author{
+    font-weight: bold;
+}
+.bottom{
+    background-color: #8ECDDD;
+    margin-top: 10px;
+    height: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
